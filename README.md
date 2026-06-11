@@ -16,4 +16,4 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rafaelczanett"><img src="https://github-readme-stats.vercel.app/api?username=rafaelczanetti&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=0D1017&hide_border=true&cache_seconds=2300" alt="GitHub Status"></a>
+<a href="https://github.com/rafaelczanett"><img src="https://github-readme-stats.vercel.app/api?username=rafaelczanett&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=0D1017&hide_border=true&cache_seconds=2300" alt="GitHub Status"></a>
