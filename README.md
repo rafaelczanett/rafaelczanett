@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://rafaelcavalcantez.com.br">Rafael</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://rafaelczanett.com">Rafael</a>!</h1>
 <h3 align="center">Welcome to my GitHub profile</h3>
 
 ## 💻 About Me
